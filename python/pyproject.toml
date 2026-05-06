@@ -1,0 +1,20 @@
+[project]
+name = "x402-financial-data-client"
+version = "0.1.0"
+description = "Python client for x402 Financial Data API — Singapore financial data with x402 protocol payments"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "httpx>=0.28.0",
+    "python-x402>=0.2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
