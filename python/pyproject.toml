@@ -1,6 +1,6 @@
 [project]
 name = "x402-financial-data-client"
-version = "0.1.0"
+version = "0.2.0"
 description = "Python client for x402 Financial Data API — Singapore financial data with x402 protocol payments"
 readme = "README.md"
 requires-python = ">=3.10"

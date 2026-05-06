@@ -101,6 +101,23 @@ The x402 protocol handles payment **on-chain**. There's no API key — just conn
 | `POST /coe/prices` | $0.01 | Latest COE premiums |
 | `POST /fire` | $0.01 | Singapore FIRE calculator |
 | `POST /refinance` | $0.015 | Mortgage refinance analyzer |
+| `POST /invest/dca` | $0.01 | Singapore DCA simulator — IWLU vs CPF OA vs SSB |
+| `POST /invest/grow` | $0.01 | Singapore compound growth comparison calculator |
+| `POST /tax/optimization` | $0.02 | AI-powered Singapore income tax optimization strategies |
+| `POST /tax/corporate` | $0.02 | Singapore corporate income tax calculator |
+| `POST /school/nearby` | $0.01 | Singapore primary school finder by location |
+| `POST /school/nearby/secondary` | $0.01 | Singapore secondary school finder by location |
+| `POST /retirement/community` | $0.01 | Singapore retirement community neighborhood analyzer |
+| `POST /goal/plan` | $0.01 | Singapore financial goal planner — savings target mapper |
+| `POST /mortgage/compare` | $0.01 | Singapore mortgage comparison — HDB vs bank loan |
+| `POST /insurance/analyze` | $0.01 | Singapore multi-risk insurance coverage analyzer |
+| `POST /property/rental-yield` | $0.01 | Singapore property rental yield calculator |
+| `POST /invoice/generate` | $0.02 | Generate GST-compliant invoice PDF |
+| `POST /cpf/topup` | $0.01 | Singapore CPF top-up optimization analyzer |
+| `POST /bto/topup-suggestions` | $0.01 | BTO top-up and grants optimization |
+| `POST /driving/demerit` | $0.01 | Singapore driving license demerit points analyzer |
+| `POST /salary/market-rates` | $0.01 | Singapore salary market rate estimator |
+| `POST /singapore/benefits` | $0.01 | Singapore government assistance scheme eligibility checker |
 
 ## For AI Agents
 
