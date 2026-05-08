@@ -54,7 +54,7 @@ except ImportError:
 import httpx
 
 
-BASE_URL = os.getenv("X402_API_URL", "https://x402-financial-data-api.vercel.app")
+BASE_URL = os.getenv("X402_API_URL", "https://x402-financial-api.life.conway.tech")
 NETWORK = "eip155:8453"
 USDC_ASSET = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
 RECEIVING_WALLET = "0x50F9D979b825670A9936D992F5db8AEd9497208A"

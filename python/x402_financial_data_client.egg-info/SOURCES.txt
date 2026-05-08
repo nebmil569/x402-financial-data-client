@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+x402_financial_data_client.egg-info/PKG-INFO
+x402_financial_data_client.egg-info/SOURCES.txt
+x402_financial_data_client.egg-info/dependency_links.txt
+x402_financial_data_client.egg-info/requires.txt
+x402_financial_data_client.egg-info/top_level.txt
